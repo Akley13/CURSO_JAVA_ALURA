@@ -9,6 +9,7 @@ public class TesteConversao {
 		short numeroPequeno = 21345;
 		byte b = 127; // só irá até 127
 		
+        float pontoFlutuante = 3.14f;
 		
     }
 }
