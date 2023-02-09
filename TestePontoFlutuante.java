@@ -5,7 +5,7 @@ public class TestePontoFlutuante {
         System.out.println("Meu salário é " + salario + "!");
 
         	
-		double idade = 45; //Outro modo de usar váriavel
+		double idade = 45; //Outro modo de usar váriavel - melhor modo
 		System.out.print(idade);
 
 
@@ -17,7 +17,7 @@ public class TestePontoFlutuante {
 		System.out.println(outraDivisao);
 		
 		double novaTentativa = 5.0 / 2; // Irá dar certo, pois o java lê a partir da direita.
-		System.out.println(novaTentativa);
+		System.out.println(novaTentativa); 
 		
     } 
 }
